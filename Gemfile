@@ -9,6 +9,7 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
+gem 'tzinfo-data'
 gem 'sdoc', group: :doc
 
 group :development, :test do
